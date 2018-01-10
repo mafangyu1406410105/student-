@@ -1,0 +1,39 @@
+@CHARSET "UTF-8";
+*{margin:0px;padding:0px;}
+body{overflow-x:hidden;}
+
+#div1{border:1px solid;width:1915px;height:80px;}
+#div1 span{border:0px solid;width:300px;height:38px;font-size:50px;line-height:80px;position:relative;left:500px;px;font-weight:bolder;letter-spacing:10px}
+
+#div2{border:1px solid;width:300px;height:618px;float:left;}
+
+.ul1{margin: 0px;padding:0px;border:0px solid;width:298px;height:500px;margin-top:30px;}
+.li1{margin: 0px;padding:0px;border:0px solid;width:296px;height:40px;}
+.li1 a{border:0px solid red;font-size: 25px;line-height:40px;font-weight: bolder;color:black;text-decoration: none;}
+.li2{margin: 0px;padding:0px;border:0px solid;width:296px;height:40px;margin-top:20px;}
+.li2 a{border:0px solid red;font-size: 25px;line-height:40px;font-weight: bolder;color:black;text-decoration: none;}
+.li3{margin: 0px;padding:0px;border:0px solid;width:296px;height:40px;margin-top:20px;}
+.li3 a{border:0px solid red;font-size: 25px;line-height:40px;font-weight: bolder;color:black;text-decoration: none;}
+.li4{margin: 0px;padding:0px;border:0px solid;width:296px;height:40px;margin-top:20px;}
+.li4 a{border:0px solid red;font-size: 25px;line-height:40px;font-weight: bolder;color:black;text-decoration: none;}
+.li5{margin: 0px;padding:0px;border:0px solid;width:296px;height:40px;margin-top:20px;}
+.li5 a{border:0px solid red;font-size: 25px;line-height:40px;font-weight: bolder;color:black;text-decoration: none;}
+.li6{margin: 0px;padding:0px;border:0px solid;width:296px;height:40px;margin-top:20px;}
+.li6 a{border:0px solid red;font-size: 25px;line-height:40px;font-weight: bolder;color:black;text-decoration: none;}
+.li7{margin: 0px;padding:0px;border:0px solid;width:296px;height:40px;margin-top:20px;}
+.li7 a{border:0px solid red;font-size: 25px;line-height:40px;font-weight: bolder;color:black;text-decoration: none;}
+.li8{margin: 0px;padding:0px;border:0px solid;width:296px;height:40px;margin-top:20px;}
+.li8 a{border:0px solid red;font-size: 25px;line-height:40px;font-weight: bolder;color:black;text-decoration: none;}
+
+.li1 a:hover{background-color:#0044BB;color:white;}
+.li2 a:hover{background-color:#0044BB;color:white;}
+.li3 a:hover{background-color:#0044BB;color:white;}
+.li4 a:hover{background-color:#0044BB;color:white;}
+.li5 a:hover{background-color:#0044BB;color:white;}
+.li6 a:hover{background-color:#0044BB;color:white;}
+.li7 a:hover{background-color:#0044BB;color:white;}
+.li8 a:hover{background-color:#0044BB;color:white;}
+
+#div3{border:1px solid;width:1061px;height:618px;float:left;}
+.div3_1{border:0px solid;width:1050px;height:600px;}
+.div3_1 span{border:0px solid;font-size:80px;font-weight:bolder;line-height: 600px;position:relative;left:230px;}

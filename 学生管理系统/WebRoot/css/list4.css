@@ -1,0 +1,58 @@
+@CHARSET "UTF-8";
+*{margin:0px;padding:0px;}
+body{overflow-x:hidden;}
+
+#divA1{border:1px solid;width:1915px;height:80px;}
+#divA1 span{border:0px solid;width:300px;height:38px;font-size:50px;line-height:80px;position:relative;left:500px;px;font-weight:bolder;letter-spacing:10px}
+
+#divA2{border:1px solid;width:300px;height:618px;float:left;}
+
+.ulA1{margin: 0px;padding:0px;border:0px solid;width:298px;height:500px;margin-top:30px;}
+.liA1{margin: 0px;padding:0px;border:0px solid;width:296px;height:40px;}
+.liA1 a{border:0px solid red;font-size: 25px;line-height:40px;font-weight: bolder;color:black;text-decoration: none;}
+.liA2{margin: 0px;padding:0px;border:0px solid;width:296px;height:40px;margin-top:20px;}
+.liA2 a{border:0px solid red;font-size: 25px;line-height:40px;font-weight: bolder;color:black;text-decoration: none;}
+.liA3{margin: 0px;padding:0px;border:0px solid;width:296px;height:40px;margin-top:20px;}
+.liA3 a{border:0px solid red;font-size: 25px;line-height:40px;font-weight: bolder;color:black;text-decoration: none;}
+.liA4{margin: 0px;padding:0px;border:0px solid;width:296px;height:40px;margin-top:20px;}
+.liA4 a{border:0px solid red;font-size: 25px;line-height:40px;font-weight: bolder;color:black;text-decoration: none;}
+.liA5{margin: 0px;padding:0px;border:0px solid;width:296px;height:40px;margin-top:20px;}
+.liA5 a{border:0px solid red;font-size: 25px;line-height:40px;font-weight: bolder;color:black;text-decoration: none;}
+.liA6{margin: 0px;padding:0px;border:0px solid;width:296px;height:40px;margin-top:20px;}
+.liA6 a{border:0px solid red;font-size: 25px;line-height:40px;font-weight: bolder;color:black;text-decoration: none;}
+.liA7{margin: 0px;padding:0px;border:0px solid;width:296px;height:40px;margin-top:20px;}
+.liA7 a{border:0px solid red;font-size: 25px;line-height:40px;font-weight: bolder;color:black;text-decoration: none;}
+.liA8{margin: 0px;padding:0px;border:0px solid;width:296px;height:40px;margin-top:20px;}
+.liA8 a{border:0px solid red;font-size: 25px;line-height:40px;font-weight: bolder;color:black;text-decoration: none;}
+
+.liA1 a:hover{background-color:#0044BB;color:white;}
+.liA2 a:hover{background-color:#0044BB;color:white;}
+.liA3 a:hover{background-color:#0044BB;color:white;}
+.liA4 a:hover{background-color:#0044BB;color:white;}
+.liA5 a:hover{background-color:#0044BB;color:white;}
+.liA6 a:hover{background-color:#0044BB;color:white;}
+.liA7 a:hover{background-color:#0044BB;color:white;}
+.liA8 a:hover{background-color:#0044BB;color:white;}
+
+#divA3{border:1px solid;width:1061px;height:618px;float:left;}
+.divA3_1{border:0px solid;width:1061px;height:555px;margin-top: 30px;}
+#tableA1{border:0px solid;width:1061px;height:50px;}
+#tableA1 td{border:0px solid;font-size:25px;text-align:center;}
+#tableA1 tr{background-color:black;color:white;}
+.tdA1{width:41px;}
+.tdA2{width:65px;}
+.tdA3{width:83px;}
+.tdA4{width:65px;}
+.tdA5{width:66px;}
+.tdA6{width:115px;}
+.tdA7{width:140px;}
+
+#tableA2{border:0px solid;width:1061px;height:50px;}
+#tableA2 td{border:1px solid;font-size:25px;text-align:center;height:50px;}
+.tdA11{width:50px;}
+.tdA22{width:80px;}
+.tdA33{width:100px;}
+.tdA44{width:80px;}
+.tdA55{width:80px;}
+.tdA66{width:140px;}
+.tdA77{width:140px;}

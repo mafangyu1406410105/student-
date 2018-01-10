@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+*{margin:0px;padding:0px;}
+body
+{border:0px solid red;
+overflow-x:hidden;overflow-y:hidden;
+}
+
+#divtwo{border:0px solid red;width:500px;height:300px;position:absolute;z-indent:2;left:400px;top:160px;}
+#form1{border:0px solid;width:578px;height:300px;margin-top:0px;}
+.two1{border: 0px solid red;width:400px;height:50px;float:left;margin-left:50px;margin-top:50px;}
+.span1{border:0px solid;width:100px;height:30px;float:left;font-size:20px;line-height:30px;font-weight:bold;}
+.two1 input{border:1px solid #DDDDDD;border-width:thin;width:230px;height:32px;float:left;font-size:15px;line-height:30px;}
+
+.two2{border: 0px solid red;width:400px;height:50px;float:left;margin-left:50px;margin-top:10px;}
+.span2{border:0px solid;width:100px;height:30px;float:left;font-size:20px;line-height:30px;font-weight:bold;}
+.two2 input{border:1px solid #DDDDDD;border-width:thin;width:230px;height:32px;float:left;font-size:15px;line-height:30px;}
+
+.two3{border: 0px solid red;width:400px;height:50px;float:left;margin-left:50px;margin-top:10px;}
+#denglu{border:1px solid #DDDDDD;;width:80px;height:30px;margin-left:40px;cursor:pointer;background-color: white;}
+#chongzhi{border:1px solid #DDDDDD;;width:80px;height:30px;margin-left:40px;cursor:pointer;background-color: white;} 
+

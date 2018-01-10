@@ -1,0 +1,80 @@
+@CHARSET "UTF-8";
+*{margin:0px;padding:0px;}
+body{overflow-x:hidden;overflow-y:hidden;}
+
+#divall{border:1px solid;width:1917px;height:895px;}
+#divleft{border:1px solid;width:300px;height:895px;float:left;}
+.divleft1{border:0px solid red;width:298px;height:300px;}
+.ul11{border:0px solid red;width:298px;height:240px;list-style:none;}
+.ul11 li{border:0px solid #DDDDDD;width:298px;height:40px;list-style:none;}
+.li11 a{border:0px solid #DDDDDD;width:298px;height:25px;font-size:18px;line-height:38px;color:black;text-decoration:none;}
+.li22 a{border:0px solid #DDDDDD;width:298px;height:25px;font-size:18px;line-height:38px;text-decoration:none;color:black;background-color:#0044BB;}
+.li33 a{border:0px solid #DDDDDD;width:298px;height:25px;font-size:18px;line-height:38px;text-decoration:none;color:black;}
+.li44 a{border:0px solid #DDDDDD;width:298px;height:25px;font-size:18px;line-height:38px;text-decoration:none;color:black;}
+.li55 a{border:0px solid #DDDDDD;width:298px;height:25px;font-size:18px;line-height:38px;text-decoration:none;color:black;}
+.li66 a{border:0px solid #DDDDDD;width:298px;height:25px;font-size:18px;line-height:38px;text-decoration:none;color:black;}
+.li2 a:hover{background-color:#0044BB;color:white;}
+.li3 a:hover{background-color:#0044BB;color:white;}
+.li4 a:hover{background-color:#0044BB;color:white;}
+.li5 a:hover{background-color:#0044BB;color:white;}
+.li6 a:hover{background-color:#0044BB;color:white;}
+
+
+#divright{border:0px solid red;width:1590px;height:895px;float:left;margin-left:25px;}
+.divright1{border:1px solid;width:1590px;height:30px;background-color:#DDDDDD;}
+.a1{border:0px solid;width:20px;height:20px;float:left;margin-top:2px;color:black;}
+.divright1 img{border:0px solid;width:20px;height:20px;}
+.a2{border:0px solid;height:20px;float:left;margin-top:3px;text-decoration:none;line-height:20px;color:#33CCFF;}
+.divright1 span{border:0px solid;width:20px;height:20px;float:left;margin-top:3px;font-size:18px;color:black;text-align:center;}
+#a3{border:0px solid;height:20px;float:left;margin-top:3px;text-decoration:none;line-height:20px;color:black;}
+
+.divright2{border:1px solid;width:1590px;height:830px;}
+.divright2_1{border:0px solid;width:1588px;height:30px;float:left;margin-top:40px;}
+.divright2_1 input{border:0px solid #DDDDDD;width:200px;height:28px;font-size:15px;line-height:28px;color:#DDDDDD;border-width:thin;float:left;}
+.divright2_1_1{width:95px;height:28px;float:left;border-bottom:2px solid #DDDDDD;border-right:2px solid #DDDDDD;border-top:2px solid #DDDDDD;background-color:#DDDDDD;}
+.divright2_1_1 a{border:0px solid red;width:100px;height:22px;text-decoration:none;float:left;line-height:22px;color:black;text-align:center;}
+.divright2_1_2{border:0px solid;width:60px;height:28px;float:right;}
+.divright2_1_2 a{border:0px solid;width:60px;height:26px;text-align:center;text-decoration:none;line-height:28px;color:white;background-color:#0044BB;}
+
+.divright2_2{border:1px solid;width:1588px;height:600px;float:left;margin-top:40px;overflow:hidden;}
+#tableone{border:1px solid black;width:1586px;height:40px;background-color:black;color:white;}
+#tableone td{border:1px solid;text-align:center;font-size:40px;}
+.td1{width:300px;}
+.td2{width:300px;}
+.td3{width:300px;}
+.td4{width:300px;}
+.td5{width:300px;}
+#tabletwo{border:1px solid black;width:1586px;height:558px;}
+#tabletwo td{border:1px solid;text-align:center;font-size:25px;height:61px;}
+.td11{width:300px;}
+.td22{width:300px;}
+.td33{width:300px;}
+.td44{width:300px;}
+.td55{width:300px;}
+.td55 a{text-decoration:none;}
+#gai{border:0px solid black;width:60px;height:30px;background-color:#66FFFF;font-size:20px;color:white;line-height:30px;font-family:宋体;font-weight:bold;}
+#chu{border:0px solid black;width:60px;height:30px;background-color:red;font-size:20px;color:white;line-height:30px;font-family:宋体;font-weight:bold;}
+
+.divright3{border:0px solid red;width:1590px;height:34px;text-align:center;}
+.divright3_1{border:0px solid;width:400px;height:16px;text-align:center;line-height:30px;letter-spacing:2px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

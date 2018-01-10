@@ -1,0 +1,65 @@
+@CHARSET "UTF-8";
+*{margin:0px;padding:0px;}
+body{overflow-x:hidden;}
+
+#divA1_11{border:1px solid;width:1915px;height:80px;}
+#divA1_11 span{border:0px solid;width:300px;height:38px;font-size:50px;line-height:80px;position:relative;left:500px;px;font-weight:bolder;letter-spacing:10px}
+
+#divA2_11{border:1px solid;width:300px;height:618px;float:left;}
+
+.ulA_11{margin: 0px;padding:0px;border:0px solid;width:298px;height:500px;margin-top:30px;}
+.liA_11{margin: 0px;padding:0px;border:0px solid;width:296px;height:40px;}
+.liA_11 a{border:0px solid red;font-size: 25px;line-height:40px;font-weight: bolder;color:black;text-decoration: none;}
+.liA_22{margin: 0px;padding:0px;border:0px solid;width:296px;height:40px;margin-top:20px;}
+.liA_22 a{border:0px solid red;font-size: 25px;line-height:40px;font-weight: bolder;color:black;text-decoration: none;}
+.liA_33{margin: 0px;padding:0px;border:0px solid;width:296px;height:40px;margin-top:20px;}
+.liA_33 a{border:0px solid red;font-size: 25px;line-height:40px;font-weight: bolder;color:black;text-decoration: none;}
+.liA_44{margin: 0px;padding:0px;border:0px solid;width:296px;height:40px;margin-top:20px;}
+.liA_44 a{border:0px solid red;font-size: 25px;line-height:40px;font-weight: bolder;color:black;text-decoration: none;}
+.liA_55{margin: 0px;padding:0px;border:0px solid;width:296px;height:40px;margin-top:20px;}
+.liA_55 a{border:0px solid red;font-size: 25px;line-height:40px;font-weight: bolder;color:black;text-decoration: none;}
+.liA_66{margin: 0px;padding:0px;border:0px solid;width:296px;height:40px;margin-top:20px;}
+.liA_66 a{border:0px solid red;font-size: 25px;line-height:40px;font-weight: bolder;color:black;text-decoration: none;}
+.liA_77{margin: 0px;padding:0px;border:0px solid;width:296px;height:40px;margin-top:20px;}
+.liA_77 a{border:0px solid red;font-size: 25px;line-height:40px;font-weight: bolder;color:black;text-decoration: none;}
+.liA_88{margin: 0px;padding:0px;border:0px solid;width:296px;height:40px;margin-top:20px;}
+.liA_88 a{border:0px solid red;font-size: 25px;line-height:40px;font-weight: bolder;color:black;text-decoration: none;}
+
+.liA_11 a:hover{background-color:#0044BB;color:white;}
+.liA_22 a:hover{background-color:#0044BB;color:white;}
+.liA_33 a:hover{background-color:#0044BB;color:white;}
+.liA_44 a:hover{background-color:#0044BB;color:white;}
+.liA_55 a:hover{background-color:#0044BB;color:white;}
+.liA_66 a:hover{background-color:#0044BB;color:white;}
+.liA_77 a:hover{background-color:#0044BB;color:white;}
+.liA_88 a:hover{background-color:#0044BB;color:white;}
+
+#divA3_11{border:1px solid;width:1061px;height:618px;float:left;}
+#divA3_1_11{border:0px solid;width:1059px;height:60px;}
+#form1{border:0px solid;width:1057px;height:60px;}
+#select1{border:0px solid;width:80px;height:25px;opacity:0.5;filter:alpha(opacity=50)}
+#span1{border:0px solid red;width:150px;height:25px;font-size:20px;font:"宋体";float:left;margin-top:5px;}
+#input1{border:1px solid;width:80px;height:25px;float:left;margin-left: 20px;margin-top:5px;}
+#input2{border:1px solid;width:100px;height:25px;float:left; font-size: 15px;opacity:0.5;filter:alpha(opacity=50);margin-top:5px;}
+
+.divA3_111{border:0px solid;width:1061px;height:555px;margin-top: 30px;}
+#tableA_11{border:0px solid;width:1061px;height:50px;}
+#tableA_11 td{border:0px solid;font-size:25px;text-align:center;}
+#tableA_11 tr{background-color:black;color:white;}
+.tdA_1_1{width:41px;}
+.tdA_2_2{width:65px;}
+.tdA_3_3{width:83px;}
+.tdA_4_4{width:65px;}
+.tdA_5_5{width:66px;}
+.tdA_6_6{width:115px;}
+.tdA_7_7{width:140px;}
+
+#tableA_22{border:0px solid;width:1061px;height:50px;}
+#tableA_22 td{border:1px solid;font-size:25px;text-align:center;height:50px;}
+.tdA_111{width:80px;}
+.tdA_222{width:110px;}
+.tdA_333{width:140px;}
+.tdA_444{width:130px;}
+.tdA_555{width:120px;}
+.tdA_666{width:200px;}
+.tdA_777{width:100px;}

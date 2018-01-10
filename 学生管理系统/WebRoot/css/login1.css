@@ -1,0 +1,54 @@
+@CHARSET "UTF-8";
+*{margin:0px;padding:0px;}
+body
+{border:0px solid red;
+
+}
+
+#divall
+{
+border:0px solid red;
+width:1920px;height:899px;
+position:relative;
+/* 这是绝对定位    [eaf5fb]*/
+text-align:center;
+}
+#img1{border:1px solid;width:1200px;height:700px;margin-top:100px;}
+
+#divone{border:0px solid red;width:600px;height:700px;position:absolute;top:101px;right:960px;}
+.div1{width:598px;height:300px;margin-top:200px;border-right-style:dashed;border-right-width:thin;border-right-color:#DDDDDD;}
+.div1_1{border:0px solid;width:598px;height:150px;}
+.div1_1 img{border:0px solid;width:100px;height:100px;margin-top:20px;}
+.div1_2{border:0px solid;width:598px;height:150px;}
+.div1_2 span{border:0px solid;width:596px;height:70px;font-size:50px;color:#9999FF;letter-spacing:2px;font-family:迷你简粗倩;font-style:oblique;line-height:70px;}
+
+#divtwo{border:0px solid red;width:600px;height:700px;position:absolute;z-indent:2;top:101px;right:360px;}
+#form1{border:0px solid;width:598px;height:300px;margin-top:200px;}
+.two1{border: 0px solid red;width:400px;height:50px;float:left;margin-left:50px;margin-top:50px;}
+.span1{border:0px solid;width:100px;height:30px;float:left;font-size:20px;line-height:30px;font-weight:bold;}
+.two1 input{border:1px solid #DDDDDD;border-width:thin;width:230px;height:32px;float:left;font-size:20px;line-height:30px;}
+/* #input1{border:0px solid;width:200px;height:30;background-color:transparent;} */
+
+.two2{border: 0px solid red;width:400px;height:50px;float:left;margin-left:50px;margin-top:10px;}
+.span2{border:0px solid;width:100px;height:30px;float:left;font-size:20px;line-height:30px;font-weight:bold;}
+.two2 input{border:1px solid #DDDDDD;border-width:thin;width:230px;height:32px;float:left;font-size:20px;line-height:30px;}
+
+.two3{border: 0px solid red;width:400px;height:50px;float:left;margin-left:50px;margin-top:10px;}
+#denglu{border:0px solid #DDDDDD;;width:80px;height:30px;margin-left:10px;cursor:pointer;background-color: white;}
+#chongzhi{border:0px solid #DDDDDD;;width:80px;height:30px;margin-left:10px;cursor:pointer;background-color: white;} 
+
+/* .two3_1
+{
+border: 0px solid red;
+width:350px;height:50px;padding:10px;
+position:absolute;left:0px;bottom:0px;
+border-radius:15px;
+-moz-border-radius: 15px; 
+-webkit-border-radius: 15px;
+border-radius:15px;
+behavior: url(css/PIE.htc);
+color:black;
+background-color:white;
+text-align:center;
+line-height:30px;
+} */
